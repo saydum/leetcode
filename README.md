@@ -1,1 +1,1 @@
-# (leetcode)[https://seanprashad.com/leetcode-patterns/]
+# [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)
